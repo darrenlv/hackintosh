@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>DisplayProductName</key>
+  <string>ASUS MX27AQ</string>
+  <key>DisplayProductID</key>
+  <integer>10149</integer>
+  <key>DisplayVendorID</key>
+  <integer>469</integer>
+  <key>scale-resolutions</key>
+  <array>
+    <data>AAAKAAAABaA=</data>
+    <data>AAAHgAAABDg=</data>
+    <data>AAAGQAAAA4Q=</data>
+    <data>AAAFVgAAAwA=</data>
+    <data>AAAFAAAAAtA=</data>
+    <data>AAAEAAAAAkA=</data>
+    <data>AAAFoAAAA4Q=</data>
+  </array>
+</dict>
+</plist>
