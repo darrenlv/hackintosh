@@ -1,0 +1,21 @@
+<key>Devices</key>
+<dict>
+    <key>Properties</key>
+    <dict>
+        <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+        <dict>
+            <key>framebuffer-con0-enable</key>
+			<integer>1</integer>
+			<key>framebuffer-con0-type</key>
+			<integer>0x00000800</integer>
+            <key>framebuffer-con1-enable</key>
+			<integer>1</integer>
+			<key>framebuffer-con1-type</key>
+			<integer>0x00000800</integer>
+            <key>framebuffer-con2-enable</key>
+			<integer>1</integer>
+			<key>framebuffer-con2-type</key>
+			<integer>0x00000800</integer>
+        </dict>
+    </dict>
+</dict>
